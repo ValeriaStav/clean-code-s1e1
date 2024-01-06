@@ -44,16 +44,16 @@
 }
 
 .tasks-container {
-  margin:0;
+  margin: 0;
   padding: 0px;
 }
 
 .task-item, .title {
-  list-style:none;
+  list-style: none;
 }
 
 .task,.button{
-  outline:none;
+  outline: none;
 }
 
 .button {
@@ -73,7 +73,7 @@
 /* Heading */
 
 .title {
-  list-style:none;
+  list-style: none;
   color: #333;
   font-weight: 700;
   font-size: 15px;
@@ -123,7 +123,7 @@
 
 }
 
-.task-item  > * {
+.task-item > * {
   vertical-align: middle;
 }
 
@@ -162,14 +162,14 @@
 /* Edit Task */
 
 .task-item .task-text {
-  display:none
+  display: none
 }
 
 .edit-mode .task-text {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 .edit-mode .task-name {
-  display:none;
+  display: none;
 }
