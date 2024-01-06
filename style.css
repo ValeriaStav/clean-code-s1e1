@@ -48,11 +48,13 @@
   padding: 0;
 }
 
-.task-item, .title {
+.title,
+.task-item {
   list-style: none;
 }
 
-.task,.button{
+.task,
+.button {
   outline: none;
 }
 
